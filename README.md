@@ -14,28 +14,39 @@ There are a number of handwritten digits in the MNIST dataset. The assignment is
 
 ## DESIGN STEPS
 
-### STEP 1: Import the required packages
+### STEP 1: 
+Import the required packages
 
-### STEP 2: Load the dataset
+### STEP 2: 
+Load the dataset
 
-### STEP 3: Scale the dataset
+### STEP 3: 
+Scale the dataset
 
-### STEP 4: Use the one-hot encoder
+### STEP 4: 
+Use the one-hot encoder
 
-### STEP 5: Create the model
+### STEP 5: 
+Create the model
 
-### STEP 6: Compile the model
+### STEP 6: 
+Compile the model
 
-### STEP 7: Fit the model
+### STEP 7: 
+Fit the model
 
-### STEP 8: Make prediction with test data and with an external data
+### STEP 8: 
+Make prediction with test data and with an external data
 
 
 ## PROGRAM
+```
+Developed By: Sai Eswar Kandukuri
+Reg.No: 212221240020
+```
 
 ## Importing the required packages
 ~~~
-
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
