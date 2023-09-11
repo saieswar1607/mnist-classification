@@ -158,21 +158,26 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+<img width="425" alt="1" src="https://github.com/saieswar1607/mnist-classification/assets/93427011/e4ffe4a9-b9ae-45f8-acc8-d79e9b55daca">
 
+<img width="428" alt="2" src="https://github.com/saieswar1607/mnist-classification/assets/93427011/c7092f98-f2d6-4582-9e76-c95679eadd81">
 
 
 ### Classification Report
 
+<img width="370" alt="3" src="https://github.com/saieswar1607/mnist-classification/assets/93427011/5ff07da6-8d29-4fcd-829f-920de5de85c5">
 
 
 
 ### Confusion Matrix
 
+<img width="362" alt="4" src="https://github.com/saieswar1607/mnist-classification/assets/93427011/7a2237c2-bb4e-4998-9552-0623d6443311">
 
 
 
 ### New Sample Data Prediction
 
+![num](https://github.com/saieswar1607/mnist-classification/assets/93427011/9487c7c1-651f-4e6c-acb6-f5643455f363)
 
 
 ## RESULT
